@@ -1,4 +1,4 @@
 # SMS SPAM CLASSIFIER
-- EXTRACTING FEATURES OUT OF SMS FOR BETTER CLASSIFICATION
-- USING NAIVE BAYES WITH NEW FEATURES:  TRAIN ACC 0.94 VAL ACC 0.93
-- USING NAIVE BAYES WITH NEW FEATURES AND TF-IDF VECTOR OF SMS: TRAIN ACC 0.967 TEST ACC 0.961
+- Used feature extraction along with naive bayes for sms spam classification
+- Achieved accuracy of 0.967 for training and 0.961 for validation for naive bayes with tf-idf vectors of sms
+- Used: Python, spacy, sklearn, pandas
